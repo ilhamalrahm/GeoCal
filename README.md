@@ -1,6 +1,8 @@
-# calculator
+# Geometric Calculator App
 
-A new Flutter project.
+This is a Simple Geometric Calculator app built using Flutter!
+</br>
+Find the app on Play Store [Link](https://play.google.com/store/apps/details?id=com.pp.org&hl=en&gl=US&pli=1)
 
 ## Getting Started
 
